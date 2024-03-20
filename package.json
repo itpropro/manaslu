@@ -1,7 +1,7 @@
 {
   "name": "manaslu",
   "version": "0.0.1",
-  "packageManager": "pnpm@7.30.0",
+  "packageManager": "pnpm@8.15.5",
   "private": true,
   "scripts": {
     "build": "nuxt build",
